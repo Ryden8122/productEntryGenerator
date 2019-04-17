@@ -14,3 +14,7 @@ with entries that aren't typical 'Lorem Ipsum'
 5) `invoke` those methods within `db.js`
 6) in the root directory open up a terminal type `node db.js`. Press enter and there should be a new file created in same directory called `output.js` or a .json
   depending. You can choose your output type.
+  
+## npm scripts
+`generate` will run `node productEntryGenerator.js` in your terminal and create an output file
+`reseed` will seed the database you are connected to in your dotenv.
