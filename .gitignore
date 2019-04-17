@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Do not need to export my own data, just the program
+extractPrices.js
+nicksData.json
